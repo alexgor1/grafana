@@ -2,7 +2,7 @@
 version: "3"
 services:
   pmm-server:
-    container_name: pmm-server
+    container_name: pmm-server-perconalab
     image: perconalab/pmm-server:dev-latest
     volumes:
       - "../grafana/public:/usr/share/grafana/public"
