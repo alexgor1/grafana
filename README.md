@@ -30,8 +30,8 @@ The Grafana documentation is available at [grafana.com/docs](https://grafana.com
 
 If you're interested in contributing to the Grafana project:
 
-- Start by reading the [Contributing guide](https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md).
-- Learn how to set up your local environment, in our [Developer guide](https://github.com/grafana/grafana/blob/HEAD/contribute/developer-guide.md).
+- Start by reading the [Contributing guide](https://github.com/percona-platform/grafana/blob/HEAD/CONTRIBUTING.md).
+- Learn how to set up your local environment, in our [Developer guide](https://github.com/percona-platform/grafana/blob/HEAD/contribute/developer-guide.md).
 - Explore our [beginner-friendly issues](https://github.com/grafana/grafana/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22).
 - Look through our [style guide and Storybook](https://developers.grafana.com/ui/latest/index.html).
 

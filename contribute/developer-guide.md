@@ -30,7 +30,7 @@ If you are running Grafana on Windows 10, we recommend installing the Windows Su
 
 We recommend using the Git command-line interface to download the source code for the Grafana project:
 
-1. Open a terminal and run `git clone https://github.com/grafana/grafana.git`. This command downloads Grafana to a new `grafana` directory in your current directory.
+1. Open a terminal and run `git clone https://github.com/percona-platform/grafana.git`. This command downloads Grafana to a new `grafana` directory in your current directory.
 1. Open the `grafana` directory in your favorite code editor.
 
 For alternative ways of cloning the Grafana repository, please refer to [GitHub's cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) documentation.
